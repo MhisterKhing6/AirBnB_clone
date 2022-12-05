@@ -1,0 +1,26 @@
+.places {
+    font-size: 30px;
+}
+article{
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: inline-block;
+
+}
+.article_contain {
+    font-size: 30px;
+    text-align: center;
+}
+.center {
+    vertical-align: center;
+}
+/*Making a flex container */
+.flex_cont {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
